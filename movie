@@ -1,0 +1,8 @@
+def my_method(array)
+ array.each do |movie|
+  puts "One of my favorite movies is #{movie}'
+  end
+
+end
+
+my_array =["Scarface", "Rush Hour", "Rocky"]
