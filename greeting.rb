@@ -1,13 +1,14 @@
-def my_method(array)
- array.each do |movie|
- if movie == "Scarface"
-  puts "My most favorite movies is #{movie}"
-  else
-   puts "One of my favorite movies is #{movie}"
-   end
-   end
-   end
+def greeting
+  puts "Hello World"
+end
+
+greeting
+greeting
+greeting
+greeting
+greeting
+
    
-   my_array = ["Scarface", "Rocky", "Top Gun"]
+   
    
    
